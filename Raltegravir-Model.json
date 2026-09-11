@@ -1060,14 +1060,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Iwamoto 2008 800mg PO (Figure 2) Safety-Tolerability-PK study|Weibull (lactose formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)"
       ],
@@ -1312,14 +1304,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Iwamoto 2008 10mg PO (Figure 2) Safety-Tolerability-PK study|Weibull (lactose formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -1568,14 +1552,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Iwamoto 2008 100mg PO (Figure 2) Safety-Tolerability-PK study|Weibull (lactose formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)"
       ],
@@ -1816,14 +1792,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Iwamoto 2008 1200mg PO (Figure 2) Safety-Tolerability-PK study|Weibull (lactose formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -2072,14 +2040,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Iwamoto 2008 1600mg PO (Figure 2) Safety-Tolerability-PK study|Weibull (lactose formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)"
       ],
@@ -2324,14 +2284,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Iwamoto 2008 200mg PO (Figure 2) Safety-Tolerability-PK study|Weibull (lactose formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -2580,14 +2532,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Iwamoto 2008 25mg PO (Figure 2) Safety-Tolerability-PK study|Weibull (lactose formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)"
       ],
@@ -2832,14 +2776,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Iwamoto 2008 50mg PO (Figure 2) Safety-Tolerability-PK study|Weibull (lactose formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -3088,14 +3024,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Iwamoto 2008 400mg PO (Figure 1) omeprazole study|chewable tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)"
       ],
@@ -3342,14 +3270,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Iwamoto 2008 400mg PO (Figure 1) omeprazole study|filmcoated tablet (original Merck formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -3652,14 +3572,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Iwamoto 2008 400mg PO (Figure 1) omeprazole study|Weibull (lactose formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)"
       ],
@@ -3932,128 +3844,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_10|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_11|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_12|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_13|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_14|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_15|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_16|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_17|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_18|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_19|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_20|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -4337,128 +4127,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_10|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_11|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_12|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_13|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_14|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_15|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_16|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_17|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_18|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_19|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_20|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -4762,128 +4430,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_10|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_11|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_12|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_13|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_14|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_15|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_16|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_17|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_18|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_19|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_20|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)"
       ],
@@ -5116,14 +4662,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Iwamoto 2008 400mg PO (Figure 1) omeprazole study|Weibull (granules)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -5370,14 +4908,6 @@
               "ValueOrigin": {}
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|Iwamoto 2008 400mg PO (Figure 1) omeprazole study|chewable tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
