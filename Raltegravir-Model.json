@@ -684,6 +684,7 @@
       "Name": "Iwamoto 2008 400mg PO (Figure 1) omeprazole study",
       "ApplicationType": "Oral",
       "DosingInterval": "Single",
+      "EventKey": "Event",
       "Parameters": [
         {
           "Name": "Start time",
@@ -5432,17 +5433,13 @@
                 "Name": "chewable tablet",
                 "Key": "Formulation"
               }
+            ],
+            "Events": [
+              {
+                "Name": "Food",
+                "Key": "Event"
+              }
             ]
-          }
-        }
-      ],
-      "Events": [
-        {
-          "Name": "Food",
-          "StartTime": {
-            "Value": 0.0,
-            "Unit": "h",
-            "ValueOrigin": {}
           }
         }
       ],
